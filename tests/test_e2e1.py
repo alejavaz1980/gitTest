@@ -2,7 +2,7 @@ from selenium import webdriver
 from utilities.BaseClass import BaseClass
 from pageObjects.home import Home
 import time
-
+variable1 = 'abc'
 
 class TestOne(BaseClass):
 
