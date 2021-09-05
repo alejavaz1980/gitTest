@@ -5,6 +5,7 @@ import pytest
 from utilities.BaseClass import BaseClass
 from pageObjects.home import Home
 from TestData.HomePageData import HomePageData
+variable1 = 'abc'
 
 
 class TestTwo(BaseClass):
